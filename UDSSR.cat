@@ -38,6 +38,24 @@
     <categoryEntry id="82d6-5526-0b80-2ab8" name="BA-6" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
     <categoryEntry id="9c26-dd28-b7c2-17aa" name="BA-10" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
     <categoryEntry id="0163-0910-3ab4-138c" name="T-26TN" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="f1e9-a1da-85de-9701" name="BA-64 mit PTDR-41" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="5f20-2dd8-505c-d1b4" name="T-26 Zwillingsturm" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="0d0a-0374-9ad9-16b9" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="9b1d-6e89-9ada-30fd" name="BT-2" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="da3b-0f77-8a9a-a407" name="BT-5" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="c761-e963-f1c8-ec24" name="BT-7" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="4fb9-5581-3993-2ae4" name="T-70" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="4d8d-0638-a36a-1062" name="T-80" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="007e-f01b-59a6-069d" name="T-28" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="8fb7-833a-1eb9-4366" name="T-35" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="44c5-5ca1-21e2-791c" name="T-34/76" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="f63b-a381-d6b9-81e6" name="T-34/85" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="d757-bfc2-eb51-9c49" name="KV-1" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="9557-fa60-08da-9550" name="KV-1S" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="8435-0f94-a92d-909f" name="KV-2" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="7a50-d58b-b345-5307" name="KV-85" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="3d74-46a8-bb99-51c1" name="IS-1" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="d7e6-aede-167f-5d10" name="IS-2" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
   </categoryEntries>
   <selectionEntries>
     <selectionEntry id="2374-22e3-73da-6868" name="M-72" hidden="false" collective="false" import="true" type="unit">
@@ -1225,6 +1243,388 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="d941-e9ef-c534-a575" name="FAI" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="28be-cf39-05da-4a14" name="7,62mm DT MG" hidden="false" targetId="7e6d-99f6-9c53-3eb7" type="profile"/>
+        <infoLink id="8b36-d863-5c90-6afc" name="FAI" hidden="false" targetId="a607-8d10-b1ef-99e8" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="eb55-6a17-94c3-f75a" name="FAI" hidden="false" targetId="e5b9-2f41-9d7b-4654" primary="false"/>
+        <categoryLink id="c3fe-1172-4c02-52a1" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="6447-596e-1aad-e5fd" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="b36e-7b6f-f0ea-e90a" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="58.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a373-07e1-ea1b-58ff" name="BA-20" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="b7fd-3737-2986-f384" name="7,62mm DT MG" hidden="false" targetId="7e6d-99f6-9c53-3eb7" type="profile"/>
+        <infoLink id="a0fe-91ae-64df-e6a6" name="BA-20" hidden="false" targetId="e308-1afb-c88d-79b0" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="3d05-7399-3d76-aeef" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="31a6-bac1-01fc-b913" name="BA-20" hidden="false" targetId="ac5d-41b5-795a-e3a6" primary="false"/>
+        <categoryLink id="a618-17ba-a8f0-0020" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="96b1-47e5-a1ea-806e" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="58.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a99f-f611-fa63-0eec" name="BA-64" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="c844-663e-c42b-7a0a" name="7,62mm DT MG" hidden="false" targetId="7e6d-99f6-9c53-3eb7" type="profile"/>
+        <infoLink id="d531-e716-1150-20f7" name="BA-64" hidden="false" targetId="05d7-c659-2f61-b19c" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d193-5634-062b-b243" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="cb6e-449b-3a55-cb02" name="BA-64" hidden="false" targetId="f1a4-adbe-38b2-0144" primary="false"/>
+        <categoryLink id="0980-4af7-fcce-eddc" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="569b-b282-5718-cded" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="78.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6fc3-8bc5-f690-73f1" name="BA-64 mit PTRD-41" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="043a-430e-2a33-14be" name="BA-64" hidden="false" targetId="05d7-c659-2f61-b19c" type="profile"/>
+        <infoLink id="cd3c-2582-bab5-e998" name="PTDR-41" hidden="false" targetId="6475-de9f-9164-b5b9" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="2b6c-8da9-3c0f-75e2" name="BA-64 mit PTDR-41" hidden="false" targetId="f1e9-a1da-85de-9701" primary="false"/>
+        <categoryLink id="d7c5-935c-f3d2-3570" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="8981-99ed-87bf-b459" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="bda5-d033-b5e1-5382" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="810f-2eab-4eb4-fe61" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="53.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f9fe-d046-8168-7c80" name="T-26 Zwillingsturm (2x MG)" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="bca4-8bbf-c7fa-d5a1" name="7,62mm DT MG x2" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="3304-ea15-dc81-c980" type="profile"/>
+        <infoLink id="046c-6056-2782-4b71" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d9f0-e533-c589-d115" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="075e-f6be-65a6-264a" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="2e70-7ada-91af-5612" name="T-26 Zwillingsturm" hidden="false" targetId="5f20-2dd8-505c-d1b4" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="99a4-4225-9dfc-5be5" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="68.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2565-3a38-a599-a041" name="T-26 Zwillingsturm (37mm, MG)" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="d8f8-133e-f7a7-bb3c" name="7,62mm DT MG" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="7e6d-99f6-9c53-3eb7" type="profile"/>
+        <infoLink id="bd25-338a-d666-ca3f" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+        <infoLink id="f981-6869-bce6-a3f9" name="37mm PS-1" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="e087-16a4-4d00-b7ff" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="a6b7-ba49-419f-1d1c" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="0c48-61bc-2883-321c" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="8b3e-11b4-1989-cf80" name="T-26 Zwillingsturm" hidden="false" targetId="5f20-2dd8-505c-d1b4" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="4b95-32b4-e1d0-209d" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="104.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8b0f-0582-8c07-6f64" name="BA-3" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="6711-51d5-9769-b122" name="BA-3" hidden="false" targetId="af38-aca0-10a8-6da6" type="profile"/>
+        <infoLink id="15f8-b917-b942-2f61" name="45mm 20-K" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="9fe4-5d7b-5243-72ab" name="BA-3" hidden="false" targetId="697e-69b0-e162-49dd" primary="false"/>
+        <categoryLink id="bdce-dfe7-49cf-20dc" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="aff9-f554-2a1d-c984" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="c60d-ee7f-18a7-331b" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="ef5d-b7b1-3941-cafb" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="91.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0ca8-c190-843e-be6e" name="BA-6" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="3ab0-fd4d-f231-87f5" name="BA-6" hidden="false" targetId="de39-4536-127f-fb8e" type="profile"/>
+        <infoLink id="4fd3-ad2b-6569-f049" name="45mm 20-K" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="7b5d-9c5d-6151-3136" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="9afc-9aa1-9130-e503" name="BA-6" hidden="false" targetId="82d6-5526-0b80-2ab8" primary="false"/>
+        <categoryLink id="2128-9ad2-5e5a-596e" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="34a3-30ee-942d-0d69" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="f189-4261-fb9f-caff" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="91.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ab47-e067-b2e6-ba34" name="BA-10" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="50c3-36da-bee6-4393" name="BA-10" hidden="false" targetId="89ec-c360-99ce-3907" type="profile"/>
+        <infoLink id="0bdc-0e97-250c-a0ac" name="45mm 20-K" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="1725-710f-0d65-f297" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="1252-b730-733e-203f" name="BA-10" hidden="false" targetId="9c26-dd28-b7c2-17aa" primary="false"/>
+        <categoryLink id="851d-34e7-9949-22f4" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="ec67-2c5d-d4ac-3ad5" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="7319-b1e3-080f-1920" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="91.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1782-6d7d-0da7-1a2e" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="ca90-c04b-aa8e-2479" name="45mm 20-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+        <infoLink id="d247-6b69-bbb0-3d20" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="c71a-0c9b-1d97-247d" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="b0cb-9587-44ce-e91e" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="491c-6218-fb48-bd9a" name="T-26" hidden="false" targetId="0d0a-0374-9ad9-16b9" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="4010-6ae1-8442-7364" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="f7b0-92c7-a3fe-dee8" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="91.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0afe-8f22-8a4f-5c3e" name="BT-2" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="9625-3c38-cb83-624f" name="BT-2" hidden="false" targetId="376b-fd3b-222d-2e9f" type="profile"/>
+        <infoLink id="b41e-1ae5-2005-d172" name="37mm 7K" hidden="false" targetId="53c2-5897-80a2-4441" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="3bc7-050f-2213-1546" name="BT-2" hidden="false" targetId="9b1d-6e89-9ada-30fd" primary="false"/>
+        <categoryLink id="fbb4-6ef6-4aa0-c019" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="b87e-36c4-682e-6020" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="8ec4-ef09-ffae-cdfc" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="2aee-8a11-a607-8fd4" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="96.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5c7e-35b2-b539-ffec" name="BT-5" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="b345-bb9d-bb31-ac68" name="BT-5" hidden="false" targetId="9921-6bbe-b959-22dc" type="profile"/>
+        <infoLink id="3511-71a7-dd3c-b5c1" name="45mm 20-K" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="64f1-2afb-61db-be67" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="75e9-6a49-a307-6085" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="26cc-d0b2-cc3d-b3e4" name="BT-5" hidden="false" targetId="da3b-0f77-8a9a-a407" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="e080-71dc-5bfa-64b4" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="dc42-ff42-e4b8-3d19" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a8f9-22c3-e152-20ff" name="BT-7" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="fc6d-f1c0-46e9-90f7" name="BT-7" hidden="false" targetId="f33d-58ea-b0f7-b283" type="profile"/>
+        <infoLink id="6ea8-1279-9eff-3ac3" name="45mm 20-K" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="fea1-2e8a-0337-8eb3" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="21bc-bccf-223e-ee55" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="702e-1ea3-15e3-1229" name="BT-7" hidden="false" targetId="c761-e963-f1c8-ec24" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="eaf3-6593-3011-a758" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="806a-ad91-8f6b-dafe" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7eb4-2b48-e452-9512" name="T-70" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="fede-fbb1-d947-4c74" name="T-70" hidden="false" targetId="2262-635a-6d59-2aa3" type="profile"/>
+        <infoLink id="e2d3-05c2-c1ee-7373" name="45mm 20-K" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d464-c243-2385-8f6c" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="c9ff-7350-030d-b7a4" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="d08e-a726-3036-7825" name="T-70" hidden="false" targetId="4fb9-5581-3993-2ae4" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="b9b1-3679-08ba-60ae" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="dc23-02df-ad3b-29fb" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="103.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2b1d-89de-3efe-1672" name="T-80" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="34a9-5976-ce5b-6038" name="T-80" hidden="false" targetId="8061-012c-49db-d0fc" type="profile"/>
+        <infoLink id="cc61-24e7-0a25-b5ee" name="45mm 20-K" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="34c4-d1be-7ac5-95bf" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="5cdd-a389-22ab-d9b0" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="2948-0e6f-0159-c08b" name="T-80" hidden="false" targetId="4d8d-0638-a36a-1062" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="790a-b5d0-031e-0285" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="be42-f9ca-4b1c-9504" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="103.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3a6a-a820-ea16-aee1" name="T-28" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="830c-8902-e5af-4350" name="7,62mm DT MG x2" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="3304-ea15-dc81-c980" type="profile"/>
+        <infoLink id="5a35-dbd4-354e-d7d8" name="T-28" hidden="false" targetId="88d8-3f0e-bb8e-c326" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8292-9237-173c-f018" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="4c67-4b8c-f904-1af9" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+        <categoryLink id="b029-53c3-8e74-76da" name="T-28" hidden="false" targetId="007e-f01b-59a6-069d" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3830-5c6f-c366-e722" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="795e-a091-992a-1313" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="128.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fa50-d15c-19fe-75b1" name="T-35" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="5b36-344f-1966-cd3c" name="76,2mm LS-3" hidden="false" targetId="2b6f-ec71-b89a-6990" type="profile"/>
+        <infoLink id="07ac-fe23-2854-3e2b" name="45mm 20-K x2" hidden="false" targetId="f21e-79d1-3935-b828" type="profile"/>
+        <infoLink id="7903-3c63-5027-0d15" name="7,62mm DT MG x2" hidden="false" targetId="3304-ea15-dc81-c980" type="profile"/>
+        <infoLink id="87ba-909d-e67c-e45b" name="T-35" hidden="false" targetId="0bd1-b513-8844-99bf" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8bbe-345f-c516-cd46" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="22bd-e050-1527-4fdc" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+        <categoryLink id="6374-052e-2ccb-8020" name="T-35" hidden="false" targetId="8fb7-833a-1eb9-4366" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="78d4-1345-abf0-f094" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="16ed-3ce1-cb19-e8e7" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="189.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2362-3084-9746-89c7" name="T-34/76" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="e787-5ecd-a2dc-acd8" name="T-34/76" hidden="false" targetId="db12-1bd9-43db-8a0e" type="profile"/>
+        <infoLink id="f49d-26bf-2d0e-ab3b" name="76,2mm F-34" hidden="false" targetId="9817-85dc-0b4e-3a9e" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="2bb8-5679-d094-893f" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="d3b2-a604-b6a5-9087" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+        <categoryLink id="47bc-b7d5-d68a-5019" name="T-34/76" hidden="false" targetId="44c5-5ca1-21e2-791c" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="843a-465c-ecf0-e29f" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="5895-c7ef-6889-bc06" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="229.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5a83-5dc2-bfa7-9270" name="T-34/85" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="7a18-8316-03bb-0997" name="T-34/85" hidden="false" targetId="1ba0-8326-a331-ac4c" type="profile"/>
+        <infoLink id="0438-1050-9877-f54f" name="85mm SIS S-53" hidden="false" targetId="320c-4f9f-3a5a-5584" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="850c-5396-6f60-9730" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="d84f-b7e3-1813-0fd8" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+        <categoryLink id="edc4-c2b4-9b40-f8f5" name="T-34/85" hidden="false" targetId="f63b-a381-d6b9-81e6" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="134a-df91-1601-2bc4" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="73c7-f9bb-f9b3-ab39" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="255.0"/>
+      </costs>
+    </selectionEntry>
   </selectionEntries>
   <sharedProfiles>
     <profile id="092a-4303-5f44-4f03" name="M-72" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
@@ -1647,7 +2047,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
       </characteristics>
     </profile>
-    <profile id="7e6d-99f6-9c53-3eb7" name="7,62mm DT MG" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+    <profile id="7e6d-99f6-9c53-3eb7" name="7,62mm DT MG (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
         <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">40</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">3</characteristic>
@@ -1657,7 +2057,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
-    <profile id="0dfa-232a-9d6f-8b97" name="12.7mm DK MG" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+    <profile id="0dfa-232a-9d6f-8b97" name="12.7mm DK MG (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
         <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">2</characteristic>
@@ -1695,7 +2095,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
       </characteristics>
     </profile>
-    <profile id="53c2-5897-80a2-4441" name="37mm 7K" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+    <profile id="53c2-5897-80a2-4441" name="37mm 7K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
         <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
@@ -1761,7 +2161,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
       </characteristics>
     </profile>
-    <profile id="4f28-45b4-3a55-5266" name="45mm 20-K" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+    <profile id="4f28-45b4-3a55-5266" name="45mm 20-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
         <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
@@ -1783,6 +2183,236 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
         <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
         <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="2b36-efe8-c2f6-5f7d" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="e087-16a4-4d00-b7ff" name="37mm PS-1 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="3304-ea15-dc81-c980" name="7,62mm DT MG x2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">40</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">6</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">1</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="6475-de9f-9164-b5b9" name="PTDR-41 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">40</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="376b-fd3b-222d-2e9f" name="BT-2" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">3</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="9921-6bbe-b959-22dc" name="BT-5" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="f33d-58ea-b0f7-b283" name="BT-7" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="2262-635a-6d59-2aa3" name="T-70" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">6</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">3</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">4</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="8061-012c-49db-d0fc" name="T-80" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">6</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">3</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">4</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="92b5-b419-39ad-0cea" name="37mm B-3 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="88d8-3f0e-bb8e-c326" name="T-28" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">3</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">3</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="0bd1-b513-8844-99bf" name="T-35" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">3</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">3</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="db12-1bd9-43db-8a0e" name="T-34/76" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">7</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">7</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">7</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="1ba0-8326-a331-ac4c" name="T-34/85" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">9</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">8</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">7</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="28b4-dba3-521e-bf05" name="76,2mm F-10 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="2b6f-ec71-b89a-6990" name="76,2mm LS-3 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="f21e-79d1-3935-b828" name="45mm 20-K x2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">2</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="9817-85dc-0b4e-3a9e" name="76,2mm F-34 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="320c-4f9f-3a5a-5584" name="85mm SIS S-53 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>
