@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Behind-Omaha" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <dataIndexEntries>
-    <dataIndexEntry filePath="Behind Omaha.gstz" dataType="gamesystem" dataId="f8d5-207e-e1b7-6225" dataName="Behind Omaha" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Deutschland.catz" dataType="catalogue" dataId="2143-e5c3-4caf-5a48" dataName="Deutschland" dataBattleScribeVersion="2.03" dataRevision="1"/>
-  </dataIndexEntries>
-</dataIndex>
