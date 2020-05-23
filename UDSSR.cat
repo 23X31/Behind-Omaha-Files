@@ -74,6 +74,12 @@
     <categoryEntry id="302b-ca24-5e9b-0027" name="OT-34/76" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
     <categoryEntry id="245e-0125-5051-75e0" name="KV-8" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
     <categoryEntry id="b635-5fdc-ca0e-1c5c" name="OT-34/85" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="d301-dfcc-43ee-636b" name="SU-1-12" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="2676-8e07-c8d0-1327" name="T-26-4" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="13b4-0549-2ecb-6e43" name="T-26 A-43" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="3654-30b7-006c-0d0c" name="BT-7A" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="1050-7226-bc4a-e3fb" name="D-38" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="9921-8ea7-bacc-ba11" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
   </categoryEntries>
   <selectionEntries>
     <selectionEntry id="2374-22e3-73da-6868" name="M-72" hidden="false" collective="false" import="true" type="unit">
@@ -1559,8 +1565,9 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
     </selectionEntry>
     <selectionEntry id="3a6a-a820-ea16-aee1" name="T-28" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
       <infoLinks>
-        <infoLink id="830c-8902-e5af-4350" name="7,62mm DT MG x2" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="3304-ea15-dc81-c980" type="profile"/>
+        <infoLink id="830c-8902-e5af-4350" name="7,62mm DT MG x2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="3304-ea15-dc81-c980" type="profile"/>
         <infoLink id="5a35-dbd4-354e-d7d8" name="T-28" hidden="false" targetId="88d8-3f0e-bb8e-c326" type="profile"/>
+        <infoLink id="87c4-1eb6-524c-919e" name="76,2mm KT-28 (DS)" hidden="false" targetId="2d24-7fc4-f7c9-674d" type="profile"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="8292-9237-173c-f018" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
@@ -2053,7 +2060,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
     <selectionEntry id="d98d-872f-edd3-5821" name="ISU-122S" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
       <infoLinks>
         <infoLink id="6e36-d72b-9d7a-ef6e" name="122mm D-25S (DS)" hidden="false" targetId="9706-1537-5ac6-8c95" type="profile"/>
-        <infoLink id="7353-42d0-164d-cac3" name="ISU-122S" hidden="false" targetId="fae7-ca33-b3fb-8f39" type="profile"/>
+        <infoLink id="7353-42d0-164d-cac3" name="ISU-122" hidden="false" targetId="e9d9-a1aa-7705-7534" type="profile"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="e612-344b-0475-1491" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
@@ -2211,6 +2218,129 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="223.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7b8c-e5a2-1976-e277" name="SU-1-12" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="79f9-6db2-fac6-d7ce" name="GAZ-AAA" hidden="false" targetId="422b-7228-9962-365c" type="profile"/>
+        <infoLink id="a829-98d8-e00e-a11e" name="76,2mm regimental gun M1927 (DS)" hidden="false" targetId="658b-5d3a-68bb-a488" type="profile"/>
+        <infoLink id="428a-de28-752d-0982" name="76,2mm regimental gun M1927 (IDS)" hidden="false" targetId="71ce-1a6b-e01d-5ab2" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="819f-1cf9-59c6-b5b5" name="Artillerieselbstfahrlafetten" hidden="false" targetId="187c-f416-c2ce-29f1" primary="true"/>
+        <categoryLink id="3264-8690-bd9f-69d8" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="acc5-f713-4266-20fb" name="SU-1-12" hidden="false" targetId="d301-dfcc-43ee-636b" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="9b3c-59e9-d5ec-b3d5" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="114.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3383-45d2-482e-e4ea" name="T-26-4" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="e393-5981-d997-8542" name="T-26" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+        <infoLink id="48a7-bbb0-e9b0-f8cc" name="76,2mm K-28 (DS)" hidden="false" targetId="b3f7-d63e-4369-aa1d" type="profile"/>
+        <infoLink id="0938-ed34-6b1c-f7c6" name="76,2mm K-28 (IDS)" hidden="false" targetId="cf3f-5db5-ac99-4738" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="4d0d-cfbe-5fdd-b59c" name="New CategoryLink" hidden="false" targetId="187c-f416-c2ce-29f1" primary="true"/>
+        <categoryLink id="d4e7-b777-2fbc-2405" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="db39-5477-57ab-307e" name="T-26-4" hidden="false" targetId="2676-8e07-c8d0-1327" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="f9ea-c4f7-b6ce-3f0c" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="b695-87f4-4109-5164" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="141.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="afea-4270-e31e-91ed" name="T-26 A-43" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="0b8a-6ef0-faf0-348f" name="T-26" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+        <infoLink id="e9db-371b-6ff6-8878" name="76,2mm K-28 (DS)" hidden="false" targetId="b3f7-d63e-4369-aa1d" type="profile"/>
+        <infoLink id="ddf5-3037-b41c-0b6a" name="76,2mm K-28 (IDS)" hidden="false" targetId="cf3f-5db5-ac99-4738" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="7913-ce02-90a0-d238" name="New CategoryLink" hidden="false" targetId="187c-f416-c2ce-29f1" primary="true"/>
+        <categoryLink id="b906-4b8b-8f4c-8a01" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="266e-318a-b782-cc11" name="T-26 A-43" hidden="false" targetId="13b4-0549-2ecb-6e43" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="30c3-8d0f-08a1-daa8" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="4996-8c51-af45-1195" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="141.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dfb3-b4e0-c9a4-f149" name="BT-7A" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="8660-b7ec-1d49-d96f" name="BT-7" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="f33d-58ea-b0f7-b283" type="profile"/>
+        <infoLink id="8963-39c9-5dbd-be76" name="76,2mm K-28 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="b3f7-d63e-4369-aa1d" type="profile"/>
+        <infoLink id="e087-5068-131e-5ba2" name="76,2mm K-28 (IDS)" hidden="false" targetId="cf3f-5db5-ac99-4738" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="fd80-7d94-f4a7-3353" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="75c2-af61-135b-ead3" name="BT-7A" hidden="false" targetId="3654-30b7-006c-0d0c" primary="false"/>
+        <categoryLink id="cecc-317c-4d09-be88" name="New CategoryLink" hidden="false" targetId="187c-f416-c2ce-29f1" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="592a-a149-527c-30ee" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="fa8e-bd2c-8771-19b6" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2bd8-1b34-4d74-8b1f" name="D-38" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="aa29-38c7-1792-a2b1" name="BT-2 (A-43)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="10ed-a6cf-26e4-0579" type="profile"/>
+        <infoLink id="ae9c-157e-cadc-abd4" name="76,2mm K-28 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="b3f7-d63e-4369-aa1d" type="profile"/>
+        <infoLink id="2e6b-5621-df21-cc65" name="76,2mm K-28 (IDS)" hidden="false" targetId="cf3f-5db5-ac99-4738" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="0f30-8d20-8148-d8b9" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="28b4-70ac-863d-34fb" name="New CategoryLink" hidden="false" targetId="187c-f416-c2ce-29f1" primary="true"/>
+        <categoryLink id="7574-ce61-b5f8-12a4" name="D-38" hidden="false" targetId="1050-7226-bc4a-e3fb" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="0246-a10b-c476-4c53" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="c247-51d4-6d29-24b2" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="10cd-997f-59f2-aa7f" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="upgrade">
+      <infoLinks>
+        <infoLink id="d43f-bb52-f170-a0d1" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="db46-332b-da79-c2aa" type="profile"/>
+        <infoLink id="c52c-0e0b-5483-88ce" name="Katjusha (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="acdf-dd44-4b90-b3f0" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="4cd2-fa97-720d-4606" name="New CategoryLink" hidden="false" targetId="187c-f416-c2ce-29f1" primary="true"/>
+        <categoryLink id="7189-2198-b323-9d7a" name="BM-13" hidden="false" targetId="9921-8ea7-bacc-ba11" primary="false"/>
+        <categoryLink id="17dd-b921-e289-09a9" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="d655-d100-a1a4-add3" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="175.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
@@ -3245,20 +3375,6 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
       </characteristics>
     </profile>
-    <profile id="fae7-ca33-b3fb-8f39" name="ISU-122S" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
-      <characteristics>
-        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
-        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
-        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">11</characteristic>
-        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">9</characteristic>
-        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">8</characteristic>
-        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">4</characteristic>
-        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
-        <characteristic name="GL" typeId="4709-f70a-d27c-b960"/>
-        <characteristic name="GG" typeId="20ed-e73c-981d-de42"/>
-        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9"/>
-      </characteristics>
-    </profile>
     <profile id="e9d9-a1aa-7705-7534" name="ISU-122" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
       <characteristics>
         <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
@@ -3414,6 +3530,88 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
         <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">GF</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="422b-7228-9962-365c" name="GAZ-AAA" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">1</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">1</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">1</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">1</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="2d24-7fc4-f7c9-674d" name="76,2mm L-10 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="b3f7-d63e-4369-aa1d" name="76,2mm KT-28 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="cf3f-5db5-ac99-4738" name="76,2mm KT-28 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="10ed-a6cf-26e4-0579" name="BT-2 (A-43)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="db46-332b-da79-c2aa" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">1</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">1</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">1</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">1</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="acdf-dd44-4b90-b3f0" name="Katjusha (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">120</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">8</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
