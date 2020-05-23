@@ -80,6 +80,33 @@
     <categoryEntry id="3654-30b7-006c-0d0c" name="BT-7A" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
     <categoryEntry id="1050-7226-bc4a-e3fb" name="D-38" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
     <categoryEntry id="9921-8ea7-bacc-ba11" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="ca9c-fa4b-4559-682e" name="LKW &amp; Dschk 1938" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="4028-27bc-0f5e-9043" name="T-90" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="46c4-f3fa-4ed3-fd8f" name="LKW &amp; Maxim-Vierling" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="2910-4738-abde-5eb3" name="LKW &amp; 61-K" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="0cbe-6d6e-a081-4a32" name="ZSU-37" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="0fd7-53f7-cdcf-c0f2" name="45mm 19-K" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="6298-c962-9d72-e6ab" name="45mm 53-K" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="5ce3-d35e-7575-39fc" name="45mm M-42" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="6158-cfca-f75e-65c4" name="76mm F-22 USV" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="77e5-4c19-202e-c3b7" name="76mm OB-25" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="84a7-8f33-bc72-1645" name="76mm ZIS-3" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="b774-90a8-d9e7-01b4" name="57mm ZIS-2" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="2382-4168-68ae-972d" name="85mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="cd52-696a-86cc-1058" name="100mm BS-3" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="93f5-acd9-99ff-58c3" name="37mm 61-K" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="12b5-a70a-051e-908e" name="82mm 82-BM-37" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="e8ad-4fca-0ec2-553d" name="82mm 82-BM-41" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="89cf-ec28-c47e-bafe" name="120mm 120-PM-38" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="49bc-c97d-13d0-ebb4" name="120mm 120-PM-43" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="b55b-916a-334a-8e30" name="76mm M1927" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="918a-0a2e-c62c-c397" name="122mm M-30" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="5851-aa26-0ba8-7d86" name="152mm D-1" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="241a-772f-6694-c31d" name="122mm A-19" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="8efa-11aa-6cbf-71f9" name="152mm ML-20" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="d5ca-529a-324d-2feb" name="203mm B-4" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="cf99-ae54-c231-276d" name="PM 1910 Maxim" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="3850-a087-d316-db6b" name="DSchK 1938" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
   </categoryEntries>
   <selectionEntries>
     <selectionEntry id="2374-22e3-73da-6868" name="M-72" hidden="false" collective="false" import="true" type="unit">
@@ -1259,6 +1286,736 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
               <categoryLinks>
                 <categoryLink id="bf37-7114-193d-8a9f" name="IUW" hidden="false" targetId="7f33-f44a-b47c-de6c" primary="false"/>
               </categoryLinks>
+              <selectionEntries>
+                <selectionEntry id="ff5c-98cd-3706-9d5d" name="45mm 19-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="ec1b-eae6-c2cc-37c7" name="45mm 19-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="d543-ec6f-440f-b357" type="profile"/>
+                    <infoLink id="9040-16c2-a243-a7f0" name="45mm 19-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="9e17-d5e5-45ed-aa4d" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="a0aa-deee-37e5-1a6d" name="45mm 19-K" hidden="false" targetId="0fd7-53f7-cdcf-c0f2" primary="false"/>
+                    <categoryLink id="b30f-33a3-8c9a-6729" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="e3e2-f9dc-06dd-009a" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="35.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="49c0-bc04-01e1-2819" name="45mm 53-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="fc1e-dc07-f7c7-07dd" name="45mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="fa8f-03b8-d888-aee5" type="profile"/>
+                    <infoLink id="43d6-2e14-d331-a657" name="45mm 53-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="5761-5428-dad8-7a06" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="593e-afd2-9cda-7f1e" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="bc96-6a3a-5861-06fa" name="45mm 53-K" hidden="false" targetId="6298-c962-9d72-e6ab" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="ce58-85ec-a9c8-d8e6" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="35.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="e7eb-1942-de64-56ef" name="45mm M-42" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="6abb-1830-6446-ac65" name="45mm M-42" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="83fc-a1d6-eb78-1591" type="profile"/>
+                    <infoLink id="7767-a767-94ea-966a" name="45mm M-42 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="c111-72f9-bccd-4862" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="e0c7-e748-d536-c754" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="cebd-89eb-e091-395e" name="45mm M-42" hidden="false" targetId="5ce3-d35e-7575-39fc" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="787b-3e48-0c3e-81ea" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="35.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="83bf-df3a-caef-b759" name="76mm F-22 USV" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="d29e-3afb-80f6-1811" name="76mm F-22 USV" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="f305-aec7-60b6-9117" type="profile"/>
+                    <infoLink id="c389-3f13-f3a2-94d3" name="76,2mm F-22 USV (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="3533-c2c6-c223-e0e0" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="e014-d38d-747f-9a4e" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="240d-03fd-fdb6-a9f7" name="76mm F-22 USV" hidden="false" targetId="6158-cfca-f75e-65c4" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="5243-b80c-c72d-47e5" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="53.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4772-fbd9-477c-c51e" name="76mm OB-25" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="444b-6f19-8805-2d11" name="76mm OB-25" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="d09f-055e-4565-5826" type="profile"/>
+                    <infoLink id="2a9a-722a-0cf1-b9da" name="76,2mm OB-25 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2ef1-9858-9b2d-0354" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="3deb-130f-8fb1-9166" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="f1e3-4ea7-e0aa-b667" name="76mm OB-25" hidden="false" targetId="77e5-4c19-202e-c3b7" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="df6d-a383-9dbb-752e" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9663-9b04-4844-be97" name="76mm ZIS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="ba10-3403-8941-4942" name="76mm ZIS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="dbea-6516-372c-476c" type="profile"/>
+                    <infoLink id="435e-890a-ad0e-ff7a" name="76,2mm ZiS-3 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="d9b1-f5d0-86cd-0644" type="profile"/>
+                    <infoLink id="8c97-ca1c-7bb7-b76e" name="76,2mm ZiS-3 (IDS)" hidden="false" targetId="ed74-3f26-8cbe-8e38" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="c06a-6667-c56a-9a18" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="e3bb-88f0-35fb-75ea" name="76mm ZIS-3" hidden="false" targetId="84a7-8f33-bc72-1645" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="94c8-74e0-ad98-ea95" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="89.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="3052-2b6e-a5fa-9b13" name="57mm ZIS-2" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="389f-171f-a2ed-00dd" name="57mm ZIS-2" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="da20-e786-8253-af67" type="profile"/>
+                    <infoLink id="ec4a-16f8-71f8-416a" name="57mm ZiS-2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="388f-8419-6346-d2a1" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="3286-315d-4e4b-e5e0" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="71e7-3ce2-2aae-2d54" name="57mm ZIS-2" hidden="false" targetId="b774-90a8-d9e7-01b4" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="8cd4-fc93-6301-2f71" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="59.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8e16-1f8e-bcfc-b660" name="85mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="889f-1d4d-1d48-2da4" name="85mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="df39-ecff-baa6-6525" type="profile"/>
+                    <infoLink id="968a-b858-1210-d923" name="85mm 52-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ded4-4244-dd16-8968" type="profile"/>
+                    <infoLink id="9316-42aa-8a90-1df5" name="85mm 52-K (FLA)" hidden="false" targetId="79a4-d1c4-5404-d635" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="ef6b-d1e3-d621-90da" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="0a23-2b57-bdac-ddaf" name="85mm 52-K" hidden="false" targetId="2382-4168-68ae-972d" primary="false"/>
+                    <categoryLink id="33b7-a03e-37ff-d9f8" name="Flugabwehrgeschütze" hidden="false" targetId="ee0b-1588-6abb-3af5" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="31a9-77c3-4e90-215c" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="63.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="89d8-fa27-1331-b4c5" name="100mm BS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="1db5-4488-9adc-0910" name="100mm BS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ad26-e3fd-7ec6-3fa4" type="profile"/>
+                    <infoLink id="7b41-b93a-0b54-8ce2" name="100mm BS-3 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ac71-fd63-fe07-4fe1" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="1667-cc24-3179-6b74" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="55a4-e969-42af-e519" name="100mm BS-3" hidden="false" targetId="cd52-696a-86cc-1058" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="0078-0608-d530-deb9" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="102.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="09ba-f107-54b2-83ce" name="37mm 61-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="2d4f-3730-ea01-b0c7" name="37mm 61-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="d03e-430a-cb17-92f8" type="profile"/>
+                    <infoLink id="ba81-d2d7-7266-eb1c" name="37mm M1939 61-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="7ff7-5fff-62e7-f57d" type="profile"/>
+                    <infoLink id="d47d-305c-d3ef-af4d" name="37mm M1939 61-K (FLA)" hidden="false" targetId="8029-bee8-d730-2017" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="b077-f6de-9244-2498" name="Flugabwehrgeschütze" hidden="false" targetId="ee0b-1588-6abb-3af5" primary="false"/>
+                    <categoryLink id="5cc5-8371-f5a4-15e9" name="37mm 61-K" hidden="false" targetId="93f5-acd9-99ff-58c3" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="291a-fa6b-6ed7-cecf" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="36.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ada3-bc17-b877-12cf" name="82mm 82-BM-37" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="2f1d-7f17-2074-2e0f" name="82mm 82-BM-37" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="517c-322f-c7ca-536f" type="profile"/>
+                    <infoLink id="8799-4c9f-8839-145d" name="82mm 82-BM-37 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="5065-f6b9-52d7-02de" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="b501-ec2f-b8a8-7c9d" name="82mm 82-BM-37" hidden="false" targetId="12b5-a70a-051e-908e" primary="false"/>
+                    <categoryLink id="a7ea-ef07-eb6c-54fe" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="81ba-10f6-ce7b-1dc1" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="61.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="36bf-8138-f06f-fcce" name="82mm 82-BM-41" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="c4f4-077e-7e9c-437e" name="82mm 82-BM-41" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="b078-f360-ec57-d882" type="profile"/>
+                    <infoLink id="a615-5108-0eec-329e" name="82mm 82-BM-41 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="813a-08f8-d61c-1e14" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="3588-a064-b580-dd64" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                    <categoryLink id="1464-a627-3c7f-f884" name="82mm 82-BM-41" hidden="false" targetId="e8ad-4fca-0ec2-553d" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="e315-c770-4028-3f04" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="61.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="791a-76fa-8eee-7076" name="120mm 120-PM-38" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="bfd6-0248-c177-430a" name="120mm 120-PM-38" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="47b7-b17d-5c35-570b" type="profile"/>
+                    <infoLink id="59d1-fa88-510b-3ed0" name="120mm 120-PM-38 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="e9c7-9b9e-d729-8ceb" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="fdde-389d-3ad5-8529" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                    <categoryLink id="112a-be1d-f013-c1c5" name="120mm 120-PM-38" hidden="false" targetId="89cf-ec28-c47e-bafe" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="ee4c-7cc1-3466-9c95" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="76.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="16c8-ad0d-0980-c6c6" name="120mm 120-PM-43" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="b0a5-de31-f36b-7176" name="120mm 120-PM-43" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="dec6-a19d-d366-001e" type="profile"/>
+                    <infoLink id="778c-8056-97ba-a9d4" name="120mm 120-PM-43 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="9aac-f225-d23d-c219" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="086d-498f-04e4-1cce" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                    <categoryLink id="d300-05ec-33f5-2caf" name="120mm 120-PM-43" hidden="false" targetId="49bc-c97d-13d0-ebb4" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="6d09-3388-8334-195c" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="76.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f592-c56f-60d0-5553" name="76mm M1927" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="b004-5351-a2fb-2066" name="76,2mm regimental gun M1927 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="658b-5d3a-68bb-a488" type="profile"/>
+                    <infoLink id="ebe4-9aa3-93c2-5f0a" name="76,2mm regimental gun M1927 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="71ce-1a6b-e01d-5ab2" type="profile"/>
+                    <infoLink id="3c57-3933-d96d-0f07" name="76mm M1927" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="cd02-eabb-f862-21e6" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="9939-bf5d-4949-1562" name="76mm M1927" hidden="false" targetId="b55b-916a-334a-8e30" primary="false"/>
+                    <categoryLink id="cd06-f48b-ec15-b3ed" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="c417-7f0c-2e4d-c8b4" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="73.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="b4ad-d134-39b6-4068" name="122mm M-30" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="99f2-8405-7202-fef5" name="122mm M-30" hidden="false" targetId="d974-5ad9-315a-e66b" type="profile"/>
+                    <infoLink id="13f1-7c29-3160-a5ab" name="122mm M-30 (DS)" hidden="false" targetId="b01a-fa4f-94d6-7d1e" type="profile"/>
+                    <infoLink id="7d07-837e-fb45-4296" name="122mm M-30 (IDS)" hidden="false" targetId="fdf7-59d4-b4c1-ca7b" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="d163-81be-0b83-0830" name="122mm M-30" hidden="false" targetId="918a-0a2e-c62c-c397" primary="false"/>
+                    <categoryLink id="c95d-cf59-1d5f-d2cb" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="2c0e-2eab-558e-95cb" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="127.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f027-e097-0cb4-f895" name="152mm D-1" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="ab83-b776-79ff-b235" name="152mm D-1" hidden="false" targetId="b84b-5962-5bf5-e9cb" type="profile"/>
+                    <infoLink id="287b-b6d3-3c78-159b" name="152mm D-1 (DS)" hidden="false" targetId="515f-ed4a-8b44-3e66" type="profile"/>
+                    <infoLink id="ab77-92d2-0f2d-e745" name="152mm D-1 (IDS)" hidden="false" targetId="3c09-9c75-101c-9d6d" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="220f-42ad-4d19-0df8" name="152mm D-1" hidden="false" targetId="5851-aa26-0ba8-7d86" primary="false"/>
+                    <categoryLink id="ccdb-72d5-0906-84a9" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="c2eb-ce5e-96a0-44f6" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="149.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4a2e-3b53-3101-7db2" name="122mm A-19" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="0e07-2017-2723-2349" name="122mm A-19 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2bfd-0c9d-b2f8-e6c2" type="profile"/>
+                    <infoLink id="76a8-1c90-831d-5195" name="122mm A-19" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ef90-4a4b-61d5-7e03" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="2902-fbde-a914-bca2" name="122mm A-19" hidden="false" targetId="241a-772f-6694-c31d" primary="false"/>
+                    <categoryLink id="ed6b-268d-b369-f607" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="94e7-ff76-3ce2-fc34" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="135.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="515a-873b-5fb1-a452" name="152mm ML-20" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="e17a-9608-a2f8-25ec" name="152,4mm ML-20 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="af5d-6550-6124-e974" type="profile"/>
+                    <infoLink id="4e33-297b-f5e5-6949" name="152mm ML-20" hidden="false" targetId="7952-3563-763f-210f" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="1874-2249-bea7-763b" name="152mm ML-20" hidden="false" targetId="8efa-11aa-6cbf-71f9" primary="false"/>
+                    <categoryLink id="b1a2-3d94-3643-6903" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="8276-3378-6f55-eb76" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="142.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a914-b5be-9272-8f51" name="203mm B-4" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="3cec-b4dc-8c53-3d81" name="203mm B-4" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ce4b-7e39-10ad-9bd4" type="profile"/>
+                    <infoLink id="60ec-1655-0b00-3ca1" name="203mm B-4 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="7971-ed17-64e1-ac13" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="bfa4-ecb1-6364-8ce3" name="203mm B-4" hidden="false" targetId="d5ca-529a-324d-2feb" primary="false"/>
+                    <categoryLink id="dee3-e745-b5ff-0a00" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="fdd6-1971-cbca-4062" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="da3c-8b1f-a08e-b7a5" name="PM 1910 Maxim" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="c749-350f-8680-3ef1" name="PM 1910 sMG (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="cbc7-45f1-ff27-1a1e" type="profile"/>
+                    <infoLink id="784d-1127-47e4-2184" name="Sokolow-Radlafette" hidden="false" targetId="7e51-82cf-6e3d-9d37" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="76e9-8315-ed6a-63a1" name="PM 1910 Maxim" hidden="false" targetId="cf99-ae54-c231-276d" primary="false"/>
+                    <categoryLink id="d516-0bb9-291b-9601" name="Schwere Maschinengewehre" hidden="false" targetId="c194-b510-605c-b0ee" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="8cf3-ea0d-42c6-eb3d" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="28.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4056-1fc2-1581-009a" name="DSchK 1938" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="8007-4bfd-c0b4-139a" name="12,7mm DSchK sMG (DS)" hidden="false" targetId="ee45-64ee-8224-1562" type="profile"/>
+                    <infoLink id="e4e8-a217-d2bd-37a2" name="Sokolow-Radlafette" hidden="false" targetId="7e51-82cf-6e3d-9d37" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="dd87-2a67-a28f-1fe7" name="DSchK 1938" hidden="false" targetId="3850-a087-d316-db6b" primary="false"/>
+                    <categoryLink id="2cb6-7832-4019-c6d0" name="Schwere Maschinengewehre" hidden="false" targetId="c194-b510-605c-b0ee" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="344f-6fde-7371-93a3" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="28.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="a813-4b97-1454-2355" name="Infantrieunterstützungswaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d04f-1208-da08-d036" type="max"/>
+              </constraints>
+              <categoryLinks>
+                <categoryLink id="4614-1b1d-8fd3-e491" name="IUW" hidden="false" targetId="7f33-f44a-b47c-de6c" primary="false"/>
+              </categoryLinks>
+              <selectionEntries>
+                <selectionEntry id="e3c8-bd94-68f3-7520" name="45mm 19-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="4097-d941-4c24-bd9e" name="45mm 19-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="d543-ec6f-440f-b357" type="profile"/>
+                    <infoLink id="0897-e838-459a-b911" name="45mm 19-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="9e17-d5e5-45ed-aa4d" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="5db8-cd76-9bcb-1ec6" name="45mm 19-K" hidden="false" targetId="0fd7-53f7-cdcf-c0f2" primary="false"/>
+                    <categoryLink id="1c27-82e6-30a3-f21e" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="0ca7-8b4b-b0b2-51b8" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="35.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8adb-27ad-648c-d9b3" name="45mm 53-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="af8f-6596-dad5-c98b" name="45mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="fa8f-03b8-d888-aee5" type="profile"/>
+                    <infoLink id="5eef-b1f7-bd06-c012" name="45mm 53-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="5761-5428-dad8-7a06" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="9c0b-5e5d-f2c9-9c01" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="9498-8129-510e-3d70" name="45mm 53-K" hidden="false" targetId="6298-c962-9d72-e6ab" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="0d3d-804b-d851-20cc" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="35.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="3724-fea2-71ba-3676" name="45mm M-42" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="be0e-88e7-fa77-d7ba" name="45mm M-42" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="83fc-a1d6-eb78-1591" type="profile"/>
+                    <infoLink id="ba1a-5e54-a0b7-3244" name="45mm M-42 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="c111-72f9-bccd-4862" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="8531-ccd7-53ed-22f5" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="98b6-778a-9ae0-f034" name="45mm M-42" hidden="false" targetId="5ce3-d35e-7575-39fc" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="17d2-49ea-23a5-16de" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="35.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="853d-0184-048c-e40e" name="76mm F-22 USV" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="0b22-ecba-eee3-9d21" name="76mm F-22 USV" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="f305-aec7-60b6-9117" type="profile"/>
+                    <infoLink id="58f9-7609-9e61-bf5c" name="76,2mm F-22 USV (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="3533-c2c6-c223-e0e0" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="4824-2a13-073c-6cf5" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="84e4-5a1a-2ad0-770c" name="76mm F-22 USV" hidden="false" targetId="6158-cfca-f75e-65c4" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="686f-2e72-e446-e6d2" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="53.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="fa54-b34d-558f-44a5" name="76mm OB-25" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="ddbe-104f-1de2-b5e8" name="76mm OB-25" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="d09f-055e-4565-5826" type="profile"/>
+                    <infoLink id="6221-fe98-ffaf-fa9e" name="76,2mm OB-25 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2ef1-9858-9b2d-0354" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="5985-a40d-b96d-362e" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="0025-138d-4c1d-a3b2" name="76mm OB-25" hidden="false" targetId="77e5-4c19-202e-c3b7" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="a4fb-caaf-c948-01e0" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="d00d-fd43-a9bc-cd44" name="76mm ZIS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="fd2a-56b2-136c-b5b3" name="76mm ZIS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="dbea-6516-372c-476c" type="profile"/>
+                    <infoLink id="3fd3-f870-e15d-0d14" name="76,2mm ZiS-3 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="d9b1-f5d0-86cd-0644" type="profile"/>
+                    <infoLink id="120a-ecbe-9111-ef21" name="76,2mm ZiS-3 (IDS)" hidden="false" targetId="ed74-3f26-8cbe-8e38" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="6b5e-747d-df3e-4aee" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="fac5-97fa-1e9c-c484" name="76mm ZIS-3" hidden="false" targetId="84a7-8f33-bc72-1645" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="e41d-2b8d-88e0-1715" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="89.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="cc86-2434-a047-7af6" name="57mm ZIS-2" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="dea6-23ba-7158-de83" name="57mm ZIS-2" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="da20-e786-8253-af67" type="profile"/>
+                    <infoLink id="0495-b23e-3547-0a25" name="57mm ZiS-2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="388f-8419-6346-d2a1" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="1796-b214-a767-1e4b" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="a18c-6513-d069-128e" name="57mm ZIS-2" hidden="false" targetId="b774-90a8-d9e7-01b4" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="e051-6616-2a03-cfb5" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="59.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9ae5-78c1-b255-46cb" name="85mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="8b57-1a9c-c91f-26e5" name="85mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="df39-ecff-baa6-6525" type="profile"/>
+                    <infoLink id="6143-8e1d-cf07-ecf1" name="85mm 52-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ded4-4244-dd16-8968" type="profile"/>
+                    <infoLink id="df4b-4799-59d5-6615" name="85mm 52-K (FLA)" hidden="false" targetId="79a4-d1c4-5404-d635" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="3523-78bb-1d19-0927" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="4ee5-1610-2e3e-f7c6" name="85mm 52-K" hidden="false" targetId="2382-4168-68ae-972d" primary="false"/>
+                    <categoryLink id="6cd6-66bb-2afb-f6ea" name="Flugabwehrgeschütze" hidden="false" targetId="ee0b-1588-6abb-3af5" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="7367-a613-b2a7-3a69" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="63.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="35fe-cc53-1b31-b2b5" name="100mm BS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="ae50-6cc4-eaea-685d" name="100mm BS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ad26-e3fd-7ec6-3fa4" type="profile"/>
+                    <infoLink id="f9e5-173f-562e-d9fa" name="100mm BS-3 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ac71-fd63-fe07-4fe1" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="e66d-8ea6-4c0b-cf4c" name="Panzerabwehrkanonen" hidden="false" targetId="db1e-faec-9fea-0fe9" primary="false"/>
+                    <categoryLink id="4f6b-d06e-d572-7398" name="100mm BS-3" hidden="false" targetId="cd52-696a-86cc-1058" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="0b79-a0ae-177b-1a44" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="102.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="5066-7c90-e8f2-e754" name="37mm 61-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="6ae7-48ef-ee8e-ca0d" name="37mm 61-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="d03e-430a-cb17-92f8" type="profile"/>
+                    <infoLink id="3ba5-3e71-bcf6-26ee" name="37mm M1939 61-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="7ff7-5fff-62e7-f57d" type="profile"/>
+                    <infoLink id="e79b-cdc3-ce09-17a4" name="37mm M1939 61-K (FLA)" hidden="false" targetId="8029-bee8-d730-2017" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="87ff-f834-b3f8-efd6" name="Flugabwehrgeschütze" hidden="false" targetId="ee0b-1588-6abb-3af5" primary="false"/>
+                    <categoryLink id="d59b-c0d5-02db-64d4" name="37mm 61-K" hidden="false" targetId="93f5-acd9-99ff-58c3" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="f01a-6adc-dd2e-38af" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="36.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9200-9973-f25b-0f58" name="82mm 82-BM-37" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="89ce-9dc1-6dcb-5208" name="82mm 82-BM-37" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="517c-322f-c7ca-536f" type="profile"/>
+                    <infoLink id="eebb-3ff9-c1aa-f307" name="82mm 82-BM-37 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="5065-f6b9-52d7-02de" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="af55-a9cf-2815-fe0f" name="82mm 82-BM-37" hidden="false" targetId="12b5-a70a-051e-908e" primary="false"/>
+                    <categoryLink id="30ea-4251-0116-27de" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="5bac-deb6-08ef-c71f" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="61.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="afcd-a7ce-8185-90ff" name="82mm 82-BM-41" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="9ed5-1a6f-696e-2965" name="82mm 82-BM-41" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="b078-f360-ec57-d882" type="profile"/>
+                    <infoLink id="19af-20db-6359-a1fc" name="82mm 82-BM-41 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="813a-08f8-d61c-1e14" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="f9de-15b0-ff8a-b809" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                    <categoryLink id="033c-9d51-3f5e-57ef" name="82mm 82-BM-41" hidden="false" targetId="e8ad-4fca-0ec2-553d" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="c5db-5a35-ce1d-4292" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="61.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ad13-2a62-0395-c43e" name="120mm 120-PM-38" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="443d-9207-21a5-2372" name="120mm 120-PM-38" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="47b7-b17d-5c35-570b" type="profile"/>
+                    <infoLink id="daad-5769-bf01-af1f" name="120mm 120-PM-38 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="e9c7-9b9e-d729-8ceb" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="9a2a-e117-2c90-4cee" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                    <categoryLink id="2cc6-471f-20ca-c822" name="120mm 120-PM-38" hidden="false" targetId="89cf-ec28-c47e-bafe" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="c3cf-04d4-b2fe-5dd8" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="76.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="b0f8-00eb-e051-9361" name="120mm 120-PM-43" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="7fbe-07a1-7b3c-03c0" name="120mm 120-PM-43" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="dec6-a19d-d366-001e" type="profile"/>
+                    <infoLink id="3f23-8c64-9d0f-c21a" name="120mm 120-PM-43 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="9aac-f225-d23d-c219" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="4ddc-704f-e570-349f" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                    <categoryLink id="cce1-df38-065d-edd1" name="120mm 120-PM-43" hidden="false" targetId="49bc-c97d-13d0-ebb4" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="e075-f7ea-222d-5629" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="76.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="161d-abf6-4473-bd47" name="76mm M1927" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="c96b-fa9d-fcf0-3d26" name="76,2mm regimental gun M1927 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="658b-5d3a-68bb-a488" type="profile"/>
+                    <infoLink id="d97f-ae92-ad4b-52d2" name="76,2mm regimental gun M1927 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="71ce-1a6b-e01d-5ab2" type="profile"/>
+                    <infoLink id="c0aa-0a6c-14b3-0ba7" name="76mm M1927" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="cd02-eabb-f862-21e6" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="6e60-2988-c92d-83fb" name="76mm M1927" hidden="false" targetId="b55b-916a-334a-8e30" primary="false"/>
+                    <categoryLink id="9c3e-44fe-aa1f-58e3" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="a957-e500-8c12-c255" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="73.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f5ca-4fc9-e011-ba0e" name="122mm M-30" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="dbaa-2759-7226-ce03" name="122mm M-30" hidden="false" targetId="d974-5ad9-315a-e66b" type="profile"/>
+                    <infoLink id="8439-2857-6867-b783" name="122mm M-30 (DS)" hidden="false" targetId="b01a-fa4f-94d6-7d1e" type="profile"/>
+                    <infoLink id="392d-cce9-df0f-425f" name="122mm M-30 (IDS)" hidden="false" targetId="fdf7-59d4-b4c1-ca7b" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="63d8-4868-1c55-760a" name="122mm M-30" hidden="false" targetId="918a-0a2e-c62c-c397" primary="false"/>
+                    <categoryLink id="1755-dafc-b8d1-cdae" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="e247-f830-ecba-e010" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="127.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="478c-a842-b863-6cda" name="152mm D-1" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="e6e5-0b00-ec33-e725" name="152mm D-1" hidden="false" targetId="b84b-5962-5bf5-e9cb" type="profile"/>
+                    <infoLink id="4612-fb3e-535a-549e" name="152mm D-1 (DS)" hidden="false" targetId="515f-ed4a-8b44-3e66" type="profile"/>
+                    <infoLink id="bba6-ad07-f1da-8a13" name="152mm D-1 (IDS)" hidden="false" targetId="3c09-9c75-101c-9d6d" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="15f5-4d6e-7334-49a0" name="152mm D-1" hidden="false" targetId="5851-aa26-0ba8-7d86" primary="false"/>
+                    <categoryLink id="cd7c-5b03-78fe-a852" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="69e0-b832-682e-0959" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="149.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f6b6-970f-ef39-4fc6" name="122mm A-19" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="28d7-eeb9-a6b3-0dd5" name="122mm A-19 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2bfd-0c9d-b2f8-e6c2" type="profile"/>
+                    <infoLink id="090b-6fe9-97b1-1df8" name="122mm A-19" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ef90-4a4b-61d5-7e03" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="752d-0e63-e7c8-66a1" name="122mm A-19" hidden="false" targetId="241a-772f-6694-c31d" primary="false"/>
+                    <categoryLink id="982f-7a52-876f-823e" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="1b27-fd7b-3601-997a" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="135.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="792c-6e6a-040e-2a84" name="152mm ML-20" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="b436-8624-49e7-7d8c" name="152,4mm ML-20 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="af5d-6550-6124-e974" type="profile"/>
+                    <infoLink id="05d2-3534-bb3e-a8a3" name="152mm ML-20" hidden="false" targetId="7952-3563-763f-210f" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="dab7-59de-59e1-cc50" name="152mm ML-20" hidden="false" targetId="8efa-11aa-6cbf-71f9" primary="false"/>
+                    <categoryLink id="f6fb-d48e-decc-6a80" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="8191-b00b-2b02-b366" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="142.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="938c-525d-2e32-7363" name="203mm B-4" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="e23d-4048-c144-0af1" name="203mm B-4" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="ce4b-7e39-10ad-9bd4" type="profile"/>
+                    <infoLink id="054b-59ac-5be2-e12d" name="203mm B-4 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="7971-ed17-64e1-ac13" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="7af2-ef8e-8724-f450" name="203mm B-4" hidden="false" targetId="d5ca-529a-324d-2feb" primary="false"/>
+                    <categoryLink id="e00e-2707-09ce-2c73" name="Artilleriegeschütze" hidden="false" targetId="b50f-3b51-2d61-73e8" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="4614-a569-25a2-8d3d" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4ad8-034a-cdde-3e9e" name="PM 1910 Maxim" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="ab1f-64c0-8f0d-13ac" name="PM 1910 sMG (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="cbc7-45f1-ff27-1a1e" type="profile"/>
+                    <infoLink id="c5d7-5eae-4c52-ed8a" name="Sokolow-Radlafette" hidden="false" targetId="7e51-82cf-6e3d-9d37" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="a8a5-f1ee-f02e-4efb" name="PM 1910 Maxim" hidden="false" targetId="cf99-ae54-c231-276d" primary="false"/>
+                    <categoryLink id="3b70-6fda-7b51-285a" name="Schwere Maschinengewehre" hidden="false" targetId="c194-b510-605c-b0ee" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="5e1d-0637-54af-533f" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="28.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="e5b7-1525-900f-2566" name="DSchK 1938" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+                  <infoLinks>
+                    <infoLink id="6b93-4ed5-ccd9-bbc9" name="12,7mm DSchK sMG (DS)" hidden="false" targetId="ee45-64ee-8224-1562" type="profile"/>
+                    <infoLink id="950b-986a-eb55-2d85" name="Sokolow-Radlafette" hidden="false" targetId="7e51-82cf-6e3d-9d37" type="profile"/>
+                  </infoLinks>
+                  <categoryLinks>
+                    <categoryLink id="948a-3c16-cbfd-4a29" name="DSchK 1938" hidden="false" targetId="3850-a087-d316-db6b" primary="false"/>
+                    <categoryLink id="0fbc-e011-9858-3515" name="Schwere Maschinengewehre" hidden="false" targetId="c194-b510-605c-b0ee" primary="false"/>
+                  </categoryLinks>
+                  <entryLinks>
+                    <entryLink id="b28b-f368-482c-6f4f" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+                  </entryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="28.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
         </selectionEntryGroup>
@@ -2341,6 +3098,96 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="175.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="157f-e53e-9be9-f5ff" name="LKW &amp; DSchK 1938" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="fc27-6037-137f-ab96" name="12,7mm DSchK (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="b44e-fb49-a978-f23a" type="profile"/>
+        <infoLink id="1ab8-e0b0-3df7-2ae1" name="12,7mm DSchK (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="26ad-819a-e5d7-8ca3" type="profile"/>
+        <infoLink id="4008-24a9-3af8-9ff2" name="LKW" hidden="false" targetId="db46-332b-da79-c2aa" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="077c-f58d-d98f-6031" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="fabb-d301-9ff0-40b0" name="New CategoryLink" hidden="false" targetId="aa31-406d-e7c1-b8ac" primary="true"/>
+        <categoryLink id="2911-cf15-172e-4ab1" name="LKW &amp; Dschk 1938" hidden="false" targetId="ca9c-fa4b-4559-682e" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="c36c-ddcf-426c-7245" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e92b-c6e3-37cf-a096" name="LKW &amp; 61-K" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="6567-d751-ac4d-c0bc" name="37mm M1939 61-K (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="8029-bee8-d730-2017" type="profile"/>
+        <infoLink id="84cf-3d92-459d-744f" name="37mm M1939 61-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="7ff7-5fff-62e7-f57d" type="profile"/>
+        <infoLink id="380a-1a0c-95ea-31ea" name="LKW" hidden="false" targetId="db46-332b-da79-c2aa" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="b38e-12f3-2e03-6203" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="5347-35d6-e7db-c0a1" name="New CategoryLink" hidden="false" targetId="aa31-406d-e7c1-b8ac" primary="true"/>
+        <categoryLink id="2674-d60f-c6dc-fd6f" name="LKW &amp; 61-K" hidden="false" targetId="2910-4738-abde-5eb3" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="b2eb-c088-b86d-c230" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b1f6-8653-beec-8699" name="LKW &amp; Maxim-Vierling" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="76a4-212c-665a-c3e5" name="PM 1910-Vierling (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="e71b-5042-5052-4c45" type="profile"/>
+        <infoLink id="30b4-26e1-3d03-5c01" name="PM 1910-Vierling (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="28f8-a8f8-c4c2-e77f" type="profile"/>
+        <infoLink id="99be-75df-805b-a659" name="LKW" hidden="false" targetId="db46-332b-da79-c2aa" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="ce3a-1d0b-17f8-00c8" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="a1d1-ebf3-e0a6-97c2" name="New CategoryLink" hidden="false" targetId="aa31-406d-e7c1-b8ac" primary="true"/>
+        <categoryLink id="0065-c50f-0791-623f" name="LKW &amp; Maxim-Vierling" hidden="false" targetId="46c4-f3fa-4ed3-fd8f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="4e12-316e-e450-811b" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="96.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9549-e3cb-ab03-4527" name="ZSU-37" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="f06e-906b-7952-c935" name="37mm M1939 61-K (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="8029-bee8-d730-2017" type="profile"/>
+        <infoLink id="628f-096e-40dc-2899" name="37mm M1939 61-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="7ff7-5fff-62e7-f57d" type="profile"/>
+        <infoLink id="382c-65db-699d-0957" name="ZSU-37" hidden="false" targetId="9c5e-1a2b-b237-45fd" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="bc44-a31e-a4e4-bf3c" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="70f6-b247-efc9-1714" name="New CategoryLink" hidden="false" targetId="aa31-406d-e7c1-b8ac" primary="true"/>
+        <categoryLink id="bbd9-34be-57b5-e11a" name="ZSU-37" hidden="false" targetId="0cbe-6d6e-a081-4a32" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="e6c9-f0ff-667a-f566" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="91.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5f4f-363a-04d1-724a" name="T-90" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="c5b8-97f4-083f-3d74" name="T-90" hidden="false" targetId="17de-cc58-3b71-60d5" type="profile"/>
+        <infoLink id="e313-0143-3c9f-718f" name="12,7mm DSchK x2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="5910-b4e8-0347-df21" type="profile"/>
+        <infoLink id="b44a-a62e-a511-75c2" name="12,7mm DSchK x2 (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="6402-6c62-ad60-719b" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="2f9c-a7f1-95aa-2524" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="1110-72e8-4d63-87d8" name="New CategoryLink" hidden="false" targetId="aa31-406d-e7c1-b8ac" primary="true"/>
+        <categoryLink id="9c55-8980-6aee-7e74" name="T-90" hidden="false" targetId="4028-27bc-0f5e-9043" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="aeaa-eaeb-a4d9-17ba" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="92.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
@@ -3473,7 +4320,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
-    <profile id="3e7e-f705-b216-3add" name="152mm ML-20S (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+    <profile id="3e7e-f705-b216-3add" name="152,4mm ML-20S (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
         <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
@@ -3483,7 +4330,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
-    <profile id="0929-9487-d39b-787f" name="152mm ML-20S (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+    <profile id="0929-9487-d39b-787f" name="152,4mm ML-20S (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
         <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
@@ -3493,7 +4340,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
-    <profile id="5e3c-92b9-0a94-61cc" name="152mm ML-20S (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+    <profile id="5e3c-92b9-0a94-61cc" name="152,4mm ML-20S (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
         <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">90</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
@@ -3591,7 +4438,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
       </characteristics>
     </profile>
-    <profile id="db46-332b-da79-c2aa" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+    <profile id="db46-332b-da79-c2aa" name="LKW" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
       <characteristics>
         <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
         <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
@@ -3612,6 +4459,628 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
         <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="26ad-819a-e5d7-8ca3" name="12,7mm DSchK (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">2</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">1</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="17de-cc58-3b71-60d5" name="T-90" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">5</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">3</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">3</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="b44e-fb49-a978-f23a" name="12,7mm DSchK (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">100</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">-</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">-</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="28f8-a8f8-c4c2-e77f" name="PM 1910-Vierling (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">40</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">8</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">1</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="e71b-5042-5052-4c45" name="PM 1910-Vierling (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">100</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">-</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">-</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="7ff7-5fff-62e7-f57d" name="37mm 61-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">2</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="8029-bee8-d730-2017" name="37mm 61-K (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">100</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">-</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">-</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="9c5e-1a2b-b237-45fd" name="ZSU-37" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">5</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">3</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">3</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="5910-b4e8-0347-df21" name="12,7mm DSchK x2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">4</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">1</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="6402-6c62-ad60-719b" name="12,7mm DSchK x2 (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">100</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">-</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">-</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="d543-ec6f-440f-b357" name="45mm 19-K" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="fa8f-03b8-d888-aee5" name="45mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="83fc-a1d6-eb78-1591" name="45mm M-42" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="f305-aec7-60b6-9117" name="76mm F-22 USV" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">2</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="d09f-055e-4565-5826" name="76mm OB-25" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="dbea-6516-372c-476c" name="76mm ZIS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">2</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="da20-e786-8253-af67" name="57mm ZIS-2" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">2</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="df39-ecff-baa6-6525" name="85mm 52-K" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">-</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">4</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="ad26-e3fd-7ec6-3fa4" name="100mm BS-3" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">5</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">3</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="d03e-430a-cb17-92f8" name="37mm 61-K" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">2</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="9e17-d5e5-45ed-aa4d" name="45mm 19-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="5761-5428-dad8-7a06" name="45mm 53-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="c111-72f9-bccd-4862" name="45mm M-42 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="3533-c2c6-c223-e0e0" name="76,2mm F-22 USV (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="2ef1-9858-9b2d-0354" name="76,2mm OB-25 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b"></characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="388f-8419-6346-d2a1" name="57mm ZiS-2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="ded4-4244-dd16-8968" name="85mm 52-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="79a4-d1c4-5404-d635" name="85mm 52-K (FLA)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">100</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">-</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">-</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="ac71-fd63-fe07-4fe1" name="100mm BS-3 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="517c-322f-c7ca-536f" name="82mm 82-BM-37" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="b078-f360-ec57-d882" name="82mm 82-BM-41" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="47b7-b17d-5c35-570b" name="120mm 120-PM-38" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="dec6-a19d-d366-001e" name="120mm 120-PM-43" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="cd02-eabb-f862-21e6" name="76mm M1927" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="5065-f6b9-52d7-02de" name="82mm 82-BM-37 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="813a-08f8-d61c-1e14" name="82mm 82-BM-41 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="e9c7-9b9e-d729-8ceb" name="120mm 120-PM-38 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="9aac-f225-d23d-c219" name="120mm 120-PM-43 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="d974-5ad9-315a-e66b" name="122mm M-30" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">5</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">3</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="b84b-5962-5bf5-e9cb" name="152mm D-1" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">5</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">4</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">3</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="b01a-fa4f-94d6-7d1e" name="122mm M-30 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="fdf7-59d4-b4c1-ca7b" name="122mm M-30 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">90</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">G</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="515f-ed4a-8b44-3e66" name="152,4mm D-1 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="3c09-9c75-101c-9d6d" name="152,4mm D-1 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">120</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">G</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="ef90-4a4b-61d5-7e03" name="122mm A-19" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">-</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">4</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="2bfd-0c9d-b2f8-e6c2" name="122mm A-19 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">120</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">G</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="7952-3563-763f-210f" name="152mm ML-20" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">-</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">4</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="af5d-6550-6124-e974" name="152,4mm ML-20 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">120</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">G</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="ee45-64ee-8224-1562" name="12,7mm DSchK sMG (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">6</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">1</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="cbc7-45f1-ff27-1a1e" name="PM 1910 sMG (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">6</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">1</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="7e51-82cf-6e3d-9d37" name="Sokolow-Radlafette" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">10</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">1</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="ce4b-7e39-10ad-9bd4" name="203mm B-4" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">-</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">5</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="7971-ed17-64e1-ac13" name="203mm B-4 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">120</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">G</characteristic>
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
