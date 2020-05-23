@@ -1625,6 +1625,157 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="255.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="960b-b672-b6f1-7c4d" name="KV-1" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="d47a-d6e2-bb64-cbd1" name="KV-1" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="7d67-8f50-0bdb-498c" type="profile"/>
+        <infoLink id="aa5c-d43d-4764-78df" name="76,2mm F-32 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="fb94-5019-4981-e732" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8c16-317b-a7f2-c1f2" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="760c-98ba-1527-612f" name="KV-1" hidden="false" targetId="d757-bfc2-eb51-9c49" primary="false"/>
+        <categoryLink id="2b54-a42f-1482-9d2a" name="New CategoryLink" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="8525-b505-9496-f83a" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="bbba-00e4-6a5d-0fc1" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="246.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="428b-1284-958d-9264" name="KV-1S" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="9683-d8a5-3d2f-38bc" name="KV-1S" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="5ceb-9fb0-a649-e777" type="profile"/>
+        <infoLink id="8973-449b-baff-690e" name="76,2mm SIS-5 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="028a-de33-416a-06cb" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="9375-bde8-c7c0-bd7f" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="ecb5-01bf-d54e-6e37" name="New CategoryLink" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+        <categoryLink id="74c9-6f90-9884-d0e3" name="KV-1S" hidden="false" targetId="9557-fa60-08da-9550" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="467a-492a-b9f8-38e2" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="47e1-08c8-365f-f77e" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="236.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cd90-5640-48cd-e4a7" name="KV-85" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="6d96-06d5-f08f-0fa3" name="KV-85" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="6dad-1d8e-cb85-b018" type="profile"/>
+        <infoLink id="bfd8-34da-4c2e-885a" name="85mm D-5T (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="eeae-65aa-74db-b925" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="49f0-54be-25b3-d248" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="273b-5b3f-1461-e56d" name="New CategoryLink" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+        <categoryLink id="de0f-2348-a1d4-0405" name="KV-85" hidden="false" targetId="7a50-d58b-b345-5307" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="eb3e-0b1c-be87-7d69" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="c327-ce62-d446-6438" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="260.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="73f6-0088-d813-a8c9" name="KV-2" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="b32e-fdb3-0ad4-5319" name="152,4mm M10 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="c5d0-286c-5830-1516" type="profile"/>
+        <infoLink id="b3e6-90be-d4e5-76bb" name="152,4mm M10 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="b67e-d51a-161b-5814" type="profile"/>
+        <infoLink id="e970-3f09-9cc9-7f9d" name="KV-2" hidden="false" targetId="38d7-bea0-4dc2-0e53" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8b0d-e040-a637-28a5" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="06d8-5219-dfb6-f6b1" name="KV-2" hidden="false" targetId="8435-0f94-a92d-909f" primary="false"/>
+        <categoryLink id="d6f8-a57e-2996-a4c2" name="New CategoryLink" hidden="false" targetId="6c55-ee07-b88b-3051" primary="false"/>
+        <categoryLink id="60f4-b181-f789-f724" name="Artillerieselbstfahrlafetten" hidden="false" targetId="187c-f416-c2ce-29f1" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="5387-92e6-0709-b3d2" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="4fae-af52-b21c-ec11" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="321.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9729-bf0f-29bb-6210" name="IS-1" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="32c7-c295-b9e2-070d" name="IS-1" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="4513-c603-fbf4-e6bd" type="profile"/>
+        <infoLink id="2638-4ebf-140c-1a97" name="85mm D-5T (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="eeae-65aa-74db-b925" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="fe56-62de-c97e-89f9" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="f2fa-8ef3-4bbe-05ea" name="New CategoryLink" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+        <categoryLink id="cafa-f25f-2960-8c24" name="IS-1" hidden="false" targetId="3d74-46a8-bb99-51c1" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="6907-3b1b-1589-e435" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="307f-ab84-b7fb-be28" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="262.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ef75-7340-9380-b724" name="IS-2" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="7d0f-9fa1-2360-a242" name="IS-2" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="1894-9d26-365c-1c1c" type="profile"/>
+        <infoLink id="8d0a-e0b6-b266-1cc0" name="122mm D-25T (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="63fd-e699-7368-5ec1" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="460f-83a3-70fb-61b5" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="3b0b-f705-dded-342c" name="New CategoryLink" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+        <categoryLink id="270c-b745-daa7-e2c7" name="IS-2" hidden="false" targetId="d7e6-aede-167f-5d10" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="7771-5de4-d009-86cb" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="d06e-b827-b590-fe40" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="360.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="88b2-395e-f933-b18a" name="KV-2" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="acde-041e-9bf2-80fa" name="152,4mm M10 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="c5d0-286c-5830-1516" type="profile"/>
+        <infoLink id="4687-7d32-cb25-2eaf" name="152,4mm M10 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="b67e-d51a-161b-5814" type="profile"/>
+        <infoLink id="4a57-a414-fbca-1809" name="KV-2" hidden="false" targetId="38d7-bea0-4dc2-0e53" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="da56-b52d-690d-d699" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="1744-94bd-2b92-88f7" name="KV-2" hidden="false" targetId="8435-0f94-a92d-909f" primary="false"/>
+        <categoryLink id="f5be-671c-e2fe-43b0" name="New CategoryLink" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+        <categoryLink id="611d-fd30-7d26-b7c3" name="Artillerieselbstfahrlafetten" hidden="false" targetId="187c-f416-c2ce-29f1" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="b8ab-e06b-3549-eb3d" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="442a-d689-758e-1d39" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="321.0"/>
+      </costs>
+    </selectionEntry>
   </selectionEntries>
   <sharedProfiles>
     <profile id="092a-4303-5f44-4f03" name="M-72" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
@@ -2412,6 +2563,150 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
         <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="7d67-8f50-0bdb-498c" name="KV-1" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">9</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">9</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">8</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">4</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="5ceb-9fb0-a649-e777" name="KV-1S" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">8</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">8</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">7</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">4</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="6dad-1d8e-cb85-b018" name="KV-85" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">9</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">9</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">9</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">4</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="38d7-bea0-4dc2-0e53" name="KV-2" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">9</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">8</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">8</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">5</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="4513-c603-fbf4-e6bd" name="IS-1" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">10</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">9</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">8</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">4</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="1894-9d26-365c-1c1c" name="IS-2" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">11</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">9</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">9</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">4</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="fb94-5019-4981-e732" name="76,2mm F-32 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="eeae-65aa-74db-b925" name="85mm D-5T (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="028a-de33-416a-06cb" name="76,2mm SIS-5 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="c5d0-286c-5830-1516" name="152,4mm M10 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="b67e-d51a-161b-5814" name="152,4mm M10 (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">90</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="63fd-e699-7368-5ec1" name="122mm D-25T (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
