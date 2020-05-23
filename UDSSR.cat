@@ -67,6 +67,13 @@
     <categoryEntry id="d6f2-15a1-2b7e-c38f" name="ISU-152" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
     <categoryEntry id="937e-d443-da43-6b92" name="ISU-122" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
     <categoryEntry id="1835-2e07-5c11-0d5c" name="ISU-122S" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="c868-ada6-f32f-5666" name="OT-130" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="3a89-8e52-ec9c-fb7b" name="OT-133" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="79c1-b63b-3156-af13" name="XT-26" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="122a-4009-7bce-83c3" name="OT-134" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="302b-ca24-5e9b-0027" name="OT-34/76" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="245e-0125-5051-75e0" name="KV-8" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="b635-5fdc-ca0e-1c5c" name="OT-34/85" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
   </categoryEntries>
   <selectionEntries>
     <selectionEntry id="2374-22e3-73da-6868" name="M-72" hidden="false" collective="false" import="true" type="unit">
@@ -1426,7 +1433,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
     </selectionEntry>
     <selectionEntry id="1782-6d7d-0da7-1a2e" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
       <infoLinks>
-        <infoLink id="ca90-c04b-aa8e-2479" name="45mm 20-K" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+        <infoLink id="ca90-c04b-aa8e-2479" name="45mm 20-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
         <infoLink id="d247-6b69-bbb0-3d20" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
       </infoLinks>
       <categoryLinks>
@@ -2060,6 +2067,152 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="323.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="2b85-a3a7-0676-a3d7" name="OT-130" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="b18a-cd47-caa9-0b38" name="Flammenwerfer (DS)" hidden="false" targetId="557f-1712-9c1c-8e64" type="profile"/>
+        <infoLink id="f1e2-f7ab-1a96-04d9" name="T-26" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="e0d7-c38f-2008-cfaf" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="9a4c-413c-1b66-d105" name="New CategoryLink" hidden="false" targetId="1231-1f58-9144-67f9" primary="true"/>
+        <categoryLink id="823d-9794-e199-687a" name="OT-130" hidden="false" targetId="c868-ada6-f32f-5666" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="e314-e3dd-c9a7-0b8d" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="8800-0d22-9c4a-fa12" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="118.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2067-8857-e0f6-5afd" name="OT-133" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="e3ac-0303-047f-669a" name="Flammenwerfer (DS)" hidden="false" targetId="557f-1712-9c1c-8e64" type="profile"/>
+        <infoLink id="690f-653f-157a-561a" name="T-26" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="0758-40fc-83cf-b004" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="3ae1-76b7-705e-5ceb" name="New CategoryLink" hidden="false" targetId="1231-1f58-9144-67f9" primary="true"/>
+        <categoryLink id="f537-5bf3-b044-3206" name="OT-133" hidden="false" targetId="3a89-8e52-ec9c-fb7b" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="75d5-b3a4-ca43-18a9" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="8471-02b6-1648-0fad" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="118.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0f62-2abf-6fbb-998a" name="XT-26" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="0d5b-5cee-cad7-c7d9" name="Flammenwerfer (DS)" hidden="false" targetId="557f-1712-9c1c-8e64" type="profile"/>
+        <infoLink id="1bc6-8834-d64f-56f3" name="T-26" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="7e72-7450-3b27-0dc5" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="5126-8748-8f87-9da2" name="New CategoryLink" hidden="false" targetId="1231-1f58-9144-67f9" primary="true"/>
+        <categoryLink id="3b36-e821-030d-a0e9" name="XT-26" hidden="false" targetId="79c1-b63b-3156-af13" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="dd30-4c76-fba7-c41c" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="c9d2-1173-6be4-db45" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="118.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0097-2330-85c4-2a23" name="OT-134" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="2d09-6d4a-34de-c76f" name="45mm 20-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+        <infoLink id="a8fa-6fa5-c9e1-4beb" name="Flammenwerfer (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="557f-1712-9c1c-8e64" type="profile"/>
+        <infoLink id="6eeb-e5ff-2ae2-6d58" name="T-26" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="2b36-efe8-c2f6-5f7d" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="862b-54cf-5fa4-8c7a" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="ac33-d66e-9700-8fca" name="New CategoryLink" hidden="false" targetId="1231-1f58-9144-67f9" primary="true"/>
+        <categoryLink id="1360-d166-87dd-cac8" name="OT-134" hidden="false" targetId="122a-4009-7bce-83c3" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="34b7-31ca-0ec9-396d" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="0574-0613-aa27-9883" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="131.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="295e-5168-b5b1-dc7c" name="OT-34/76" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="1b8a-f395-7792-66de" name="76,2mm F-34 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="9817-85dc-0b4e-3a9e" type="profile"/>
+        <infoLink id="35ac-3e05-8198-03f6" name="Flammenwerfer (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="557f-1712-9c1c-8e64" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="1271-976d-e116-4cdc" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="a8b5-4819-cc00-16b0" name="New CategoryLink" hidden="false" targetId="1231-1f58-9144-67f9" primary="true"/>
+        <categoryLink id="c3f0-56ae-24ea-c254" name="OT-34/76" hidden="false" targetId="302b-ca24-5e9b-0027" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="ff34-8255-8b6c-1e03" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="bd3f-83eb-b985-3f29" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="269.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6d42-9c68-d136-4578" name="OT-34/85" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="8b34-cb85-9224-3233" name="85mm D-5T (DS)" hidden="false" targetId="eeae-65aa-74db-b925" type="profile"/>
+        <infoLink id="c459-8788-ff17-a555" name="T-34/85" hidden="false" targetId="1ba0-8326-a331-ac4c" type="profile"/>
+        <infoLink id="9239-cebb-b6aa-aa3a" name="Flammenwerfer (DS)" hidden="false" targetId="557f-1712-9c1c-8e64" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="47fc-e184-37d7-39ee" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="3063-a568-0456-931e" name="New CategoryLink" hidden="false" targetId="1231-1f58-9144-67f9" primary="true"/>
+        <categoryLink id="0245-f428-03ff-2d72" name="OT-34/85" hidden="false" targetId="b635-5fdc-ca0e-1c5c" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="4894-fd8c-d356-dea0" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="f3d9-6c19-2f0e-10d2" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="295.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5d25-1eb6-cdf9-8e07" name="KV-8" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="model">
+      <infoLinks>
+        <infoLink id="d567-1f4f-5d50-375a" name="45mm 20-K (DS)" hidden="false" targetId="4f28-45b4-3a55-5266" type="profile"/>
+        <infoLink id="b105-045f-f6ad-8a32" name="Flammenwerfer (DS)" hidden="false" targetId="557f-1712-9c1c-8e64" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="f563-3251-17af-ec2c" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="564e-3875-31cd-a6de" name="New CategoryLink" hidden="false" targetId="1231-1f58-9144-67f9" primary="true"/>
+        <categoryLink id="10ac-7579-c040-0ee9" name="KV-8" hidden="false" targetId="245e-0125-5051-75e0" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="bd30-ac94-b5f8-ce10" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="1bf6-9b6b-f0a9-ca96" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="223.0"/>
+      </costs>
+    </selectionEntry>
   </selectionEntries>
   <sharedProfiles>
     <profile id="092a-4303-5f44-4f03" name="M-72" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
@@ -2598,7 +2751,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
     </profile>
     <profile id="4f28-45b4-3a55-5266" name="45mm 20-K (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
-        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
         <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
@@ -2822,7 +2975,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
     </profile>
     <profile id="f21e-79d1-3935-b828" name="45mm 20-K x2 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
-        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">2</characteristic>
         <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
@@ -3251,6 +3404,16 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">2</characteristic>
         <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="557f-1712-9c1c-8e64" name="Flammenwerfer (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">Schablone</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">GF</characteristic>
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
     </profile>
