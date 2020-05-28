@@ -3083,7 +3083,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="10cd-997f-59f2-aa7f" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="10cd-997f-59f2-aa7f" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
       <infoLinks>
         <infoLink id="d43f-bb52-f170-a0d1" name="BM-13" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="db46-332b-da79-c2aa" type="profile"/>
         <infoLink id="c52c-0e0b-5483-88ce" name="Katjusha (IDS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="acdf-dd44-4b90-b3f0" type="profile"/>
@@ -4752,7 +4752,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
     </profile>
     <profile id="2ef1-9858-9b2d-0354" name="76,2mm OB-25 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
       <characteristics>
-        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b"></characteristic>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b"/>
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
         <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
